@@ -15,16 +15,23 @@ Each user has independent save files stored in the persistent data path.
 ```
 Architecture:
 - UserManager
-UserManager allows creation, deletion, and selection of user profiles. Each user has an independent save directory, ensuring that save data is isolated between players.
+UserManager allows creation, deletion, and selection of user profiles. 
+Each user has an independent save directory, 
+ensuring that save data is isolated between players.
 
 - SaveManager
-UserManager allows creation, deletion, and selection of user profiles. Each user has an independent save directory, ensuring that save data is isolated between players.
+UserManager allows creation, deletion, and selection of user profiles. 
+Each user has an independent save directory, 
+ensuring that save data is isolated between players.
 
 - GameData
-GameData is a simple data container used by the SaveManager to store and retrieve player progress.
+GameData is a simple data container used by the SaveManager 
+to store and retrieve player progress.
 
 - LocalizationManager
-LocalizationManager loads language data from localization files and provides translated text to UI elements. It also triggers UI refresh when the language changes.
+LocalizationManager loads language data from localization files 
+and provides translated text to UI elements. 
+It also triggers UI refresh when the language changes.
 
 - GameMenuUI
 Simple demonstration of a game
