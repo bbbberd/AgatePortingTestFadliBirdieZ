@@ -12,7 +12,7 @@ This project implements a save system and Localization for a Unity game supporti
 
 Each user has independent save files stored in the persistent data path.
 ```
-``
+```
 Architecture:
 - UserManager
 UserManager allows creation, deletion, and selection of user profiles. Each user has an independent save directory, ensuring that save data is isolated between players.
@@ -28,7 +28,7 @@ LocalizationManager loads language data from localization files and provides tra
 
 - GameMenuUI
 Simple demonstration of a game
-``
+```
 ```
 FEATURE
 • Create / Delete / Select User
