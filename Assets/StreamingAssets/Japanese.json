@@ -1,0 +1,50 @@
+{
+ "items": [
+  {"key":"slot","value":"スロット"},
+  {"key":"empty","value":"空"},
+  {"key":"current_user","value":"ユーザー"},
+  {"key":"no_user","value":"ユーザーなし"},
+  {"key":"corrupted","value":"破損"},
+  {"key":"level","value":"レベル"},
+  {"key":"gold","value":"ゴールド"},
+  
+  {"key":"existing_users","value": "既存ユーザー:"},
+  {"key":"no_users_found","value": "ユーザーが見つかりません"},
+
+  {"key":"main_play","value":"プレイ"},
+  {"key":"main_user","value":"ユーザー"},
+  {"key":"main_language","value":"言語"},
+  {"key":"main_saveload","value":"セーブ / ロード"},
+  {"key":"main_quit","value":"終了"},
+
+  {"key":"game_add_gold","value":"ゴールド追加"},
+  {"key":"game_add_level","value":"レベルアップ"},
+  {"key":"game_main_menu","value":"メインメニュー"},
+  {"key":"game_gold_text","value":"ゴールド"},
+  {"key":"game_level_text","value":"レベル"},
+
+  {"key":"user_input","value":"ユーザー名入力"},
+  {"key":"user_create","value":"作成"},
+  {"key":"user_select","value":"選択"},
+  {"key":"user_delete","value":"削除"},
+  {"key":"user_list","value":"ユーザー一覧"},
+  {"key":"user_main_menu","value":"メインメニュー"},
+
+  {"key":"lang_title","value":"言語"},
+  {"key":"lang_en","value":"英語"},
+  {"key":"lang_id","value":"インドネシア語"},
+  {"key":"lang_rus","value":"ロシア語"},
+  {"key":"lang_jp","value":"日本語"},
+  {"key":"lang_cn","value":"中国語"},
+  {"key":"lang_main_menu","value":"メインメニュー"},
+
+  {"key":"save_slot1","value":"スロット1"},
+  {"key":"save_slot2","value":"スロット2"},
+  {"key":"save_slot3","value":"スロット3"},
+  {"key":"save_slot4","value":"スロット4"},
+  {"key":"save_slot5","value":"スロット5"},
+  {"key":"save_button","value":"セーブ"},
+  {"key":"load_button","value":"ロード"},
+  {"key":"save_main_menu","value":"メインメニュー"}
+ ]
+}

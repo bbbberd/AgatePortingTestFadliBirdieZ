@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\scripts\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|d:\\kerja\\agateportingtestfadlibirdiez\\assets\\scripts\\systems\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\scripts\\ui\\savemenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\savemenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\scripts\\ui\\gamemenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamemenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\scripts\\ui\\usermenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\usermenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\scripts\\ui\\currentuserui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\currentuserui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\scripts\\systems\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\scripts\\ui\\gamestatusui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamestatusui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\localization\\scripts\\localizationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\localization\\scripts\\localizationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\localization\\scripts\\localizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\localization\\scripts\\localizationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\localization\\scripts\\localizedtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\localization\\scripts\\localizedtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\scripts\\ui\\languagemenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\languagemenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|D:\\Kerja\\AgatePortingTestFadliBirdieZ\\assets\\scripts\\ui\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4CD0BAD-EAB7-8A6F-DC90-CF82D5C7D7CD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LanguageSelector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\Data\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\GameData.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\Data\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:52:41.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameStatusUI.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\GameStatusUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameStatusUI.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\GameStatusUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameStatusUI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:43:21.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameMenuUI.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\GameMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameMenuUI.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\GameMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameMenuUI.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:55:40.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveMenuUI.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\SaveMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SaveMenuUI.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\SaveMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SaveMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:57:28.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\Systems\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\SaveManager.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\Systems\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\SaveManager.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwHAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:54:38.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\Systems\\UserManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\UserManager.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\Systems\\UserManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Systems\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:54:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrentUserUI.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\CurrentUserUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CurrentUserUI.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\CurrentUserUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CurrentUserUI.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T19:22:20.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserMenuUI.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\UserMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UserMenuUI.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\UserMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UserMenuUI.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T21:38:14.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocalizationData.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LocalizationData.cs",
+              "RelativeDocumentMoniker": "Assets\\Localization\\Scripts\\LocalizationData.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LocalizationData.cs",
+              "RelativeToolTip": "Assets\\Localization\\Scripts\\LocalizationData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:05:40.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocalizationManager.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LocalizationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Localization\\Scripts\\LocalizationManager.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LocalizationManager.cs",
+              "RelativeToolTip": "Assets\\Localization\\Scripts\\LocalizationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:04:04.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocalizedText.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LocalizedText.cs",
+              "RelativeDocumentMoniker": "Assets\\Localization\\Scripts\\LocalizedText.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LocalizedText.cs",
+              "RelativeToolTip": "Assets\\Localization\\Scripts\\LocalizedText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:09:45.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LanguageMenuUI.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\LanguageMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LanguageMenuUI.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\LanguageMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LanguageMenuUI.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:50:50.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MenuController.cs",
+              "ToolTip": "D:\\Kerja\\AgatePortingTestFadliBirdieZ\\Assets\\Scripts\\UI\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MenuController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:56:07.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LanguageSelector.cs",
+              "DocumentMoniker": "D:\\Unity\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LanguageSelector.cs",
+              "RelativeDocumentMoniker": "..\\..\\Unity\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LanguageSelector.cs",
+              "ToolTip": "D:\\Unity\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LanguageSelector.cs",
+              "RelativeToolTip": "..\\..\\Unity\\AgatePortingTestFadliBirdieZ\\Assets\\Localization\\Scripts\\LanguageSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T05:45:51.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

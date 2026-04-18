@@ -1,0 +1,50 @@
+{
+ "items": [
+  {"key":"slot","value":"Slot"},
+  {"key":"current_user","value":"Pengguna"},
+  {"key":"empty","value":"Kosong"},
+  {"key":"no_user","value":"Kosong"},
+  {"key":"corrupted","value":"Rusak"},
+  {"key":"level","value":"Level"},
+  {"key":"gold","value":"Emas"},
+  
+  {"key":"existing_users","value": "Daftar:"},
+  {"key":"no_users_found","value": "Kosong"},
+
+  {"key":"main_play","value":"Main"},
+  {"key":"main_user","value":"Pengguna"},
+  {"key":"main_language","value":"Bahasa"},
+  {"key":"main_saveload","value":"Simpan/Muat"},
+  {"key":"main_quit","value":"Keluar"},
+
+  {"key":"game_add_gold","value":"Tambah Emas"},
+  {"key":"game_add_level","value":"Tambah Level"},
+  {"key":"game_main_menu","value":"Menu Utama"},
+  {"key":"game_gold_text","value":"Emas"},
+  {"key":"game_level_text","value":"Level"},
+
+  {"key":"user_input","value":"Masukkan Nama"},
+  {"key":"user_create","value":"Buat"},
+  {"key":"user_select","value":"Pilih"},
+  {"key":"user_delete","value":"Hapus"},
+  {"key":"user_list","value":"Daftar User"},
+  {"key":"user_main_menu","value":"Menu Utama"},
+
+  {"key":"lang_title","value":"Bahasa"},
+  {"key":"lang_en","value":"Inggris"},
+  {"key":"lang_id","value":"Indonesia"},
+  {"key":"lang_rus","value":"Rusia"},
+  {"key":"lang_jp","value":"Jepang"},
+  {"key":"lang_cn","value":"Cina"},
+  {"key":"lang_main_menu","value":"Menu Utama"},
+
+  {"key":"save_slot1","value":"Slot 1"},
+  {"key":"save_slot2","value":"Slot 2"},
+  {"key":"save_slot3","value":"Slot 3"},
+  {"key":"save_slot4","value":"Slot 4"},
+  {"key":"save_slot5","value":"Slot 5"},
+  {"key":"save_button","value":"Simpan"},
+  {"key":"load_button","value":"Muat"},
+  {"key":"save_main_menu","value":"Menu Utama"}
+ ]
+}

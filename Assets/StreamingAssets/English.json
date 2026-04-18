@@ -1,0 +1,50 @@
+{
+ "items": [
+  {"key":"slot","value":"Slot"},
+  {"key":"empty","value":"Empty"},
+  {"key":"current_user","value":"User"},
+  {"key":"no_user","value":"No User"},
+  {"key":"corrupted","value":"Corrupted"},
+  {"key":"level","value":"Level"},
+  {"key":"gold","value":"Gold"},
+
+  {"key":"existing_users","value":"Existing Users:"},
+  {"key":"no_users_found","value":"No Users Found"},
+
+  {"key":"main_play","value":"Play"},
+  {"key":"main_user","value":"Users"},
+  {"key":"main_language","value":"Language"},
+  {"key":"main_saveload","value":"Save/Load"},
+  {"key":"main_quit","value":"Quit"},
+
+  {"key":"game_add_gold","value":"Add Gold"},
+  {"key":"game_add_level","value":"Add Level"},
+  {"key":"game_main_menu","value":"Main Menu"},
+  {"key":"game_gold_text","value":"Gold"},
+  {"key":"game_level_text","value":"Level"},
+
+  {"key":"user_input","value":"Enter Username"},
+  {"key":"user_create","value":"Create"},
+  {"key":"user_select","value":"Select"},
+  {"key":"user_delete","value":"Delete"},
+  {"key":"user_list","value":"User List"},
+  {"key":"user_main_menu","value":"Main Menu"},
+
+  {"key":"lang_title","value":"Language"},
+  {"key":"lang_en","value":"English"},
+  {"key":"lang_id","value":"Indonesian"},
+  {"key":"lang_rus","value":"Russian"},
+  {"key":"lang_jp","value":"Japanese"},
+  {"key":"lang_cn","value":"Chinese"},
+  {"key":"lang_main_menu","value":"Main Menu"},
+
+  {"key":"save_slot1","value":"Slot 1"},
+  {"key":"save_slot2","value":"Slot 2"},
+  {"key":"save_slot3","value":"Slot 3"},
+  {"key":"save_slot4","value":"Slot 4"},
+  {"key":"save_slot5","value":"Slot 5"},
+  {"key":"save_button","value":"Save"},
+  {"key":"load_button","value":"Load"},
+  {"key":"save_main_menu","value":"Main Menu"}
+ ]
+}

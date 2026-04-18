@@ -1,0 +1,49 @@
+{
+ "items": [
+  {"key":"slot","value":"存档"},
+  {"key":"empty","value":"空"},
+  {"key":"current_user","value":"当前用户"},
+  {"key":"no_user","value":"没有用户"},
+  {"key":"corrupted","value":"损坏"},
+  {"key":"level","value":"等级"},
+  {"key":"gold","value":"金币"},
+  {"key":"existing_users","value": "现有用户:"},
+  {"key":"no_users_found","value": "未找到用户"},
+
+  {"key":"main_play","value":"开始游戏"},
+  {"key":"main_user","value":"用户"},
+  {"key":"main_language","value":"语言"},
+  {"key":"main_saveload","value":"保存 / 读取"},
+  {"key":"main_quit","value":"退出"},
+
+  {"key":"game_add_gold","value":"增加金币"},
+  {"key":"game_add_level","value":"提升等级"},
+  {"key":"game_main_menu","value":"主菜单"},
+  {"key":"game_gold_text","value":"金币"},
+  {"key":"game_level_text","value":"等级"},
+
+  {"key":"user_input","value":"输入用户名"},
+  {"key":"user_create","value":"创建"},
+  {"key":"user_select","value":"选择"},
+  {"key":"user_delete","value":"删除"},
+  {"key":"user_list","value":"用户列表"},
+  {"key":"user_main_menu","value":"主菜单"},
+
+  {"key":"lang_title","value":"语言"},
+  {"key":"lang_en","value":"英语"},
+  {"key":"lang_id","value":"印尼语"},
+  {"key":"lang_rus","value":"俄语"},
+  {"key":"lang_jp","value":"日语"},
+  {"key":"lang_cn","value":"中文"},
+  {"key":"lang_main_menu","value":"主菜单"},
+
+  {"key":"save_slot1","value":"存档1"},
+  {"key":"save_slot2","value":"存档2"},
+  {"key":"save_slot3","value":"存档3"},
+  {"key":"save_slot4","value":"存档4"},
+  {"key":"save_slot5","value":"存档5"},
+  {"key":"save_button","value":"保存"},
+  {"key":"load_button","value":"读取"},
+  {"key":"save_main_menu","value":"主菜单"}
+ ]
+}

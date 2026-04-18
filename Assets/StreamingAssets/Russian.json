@@ -1,0 +1,50 @@
+{
+ "items": [
+  {"key":"slot","value":"Слот"},
+  {"key":"empty","value":"Пусто"},
+  {"key":"current_user","value":"Пользователь"},
+  {"key":"no_user","value":"Нет пользователя"},
+  {"key":"corrupted","value":"Повреждено"},
+  {"key":"level","value":"Уровень"},
+  {"key":"gold","value":"Золото"},
+  
+  {"key":"existing_users","value":"Существующие пользователи:"},
+  {"key":"no_users_found","value":"Пользователи не найдены"},
+
+  {"key":"main_play","value":"Играть"},
+  {"key":"main_user","value":"Пользователи"},
+  {"key":"main_language","value":"Язык"},
+  {"key":"main_saveload","value":"Сохранить/Загрузить"},
+  {"key":"main_quit","value":"Выход"},
+
+  {"key":"game_add_gold","value":"Добавить золото"},
+  {"key":"game_add_level","value":"Повысить уровень"},
+  {"key":"game_main_menu","value":"Главное меню"},
+  {"key":"game_gold_text","value":"Золото"},
+  {"key":"game_level_text","value":"Уровень"},
+
+  {"key":"user_input","value":"Введите имя пользователя"},
+  {"key":"user_create","value":"Создать"},
+  {"key":"user_select","value":"Выбрать"},
+  {"key":"user_delete","value":"Удалить"},
+  {"key":"user_list","value":"Список пользователей"},
+  {"key":"user_main_menu","value":"Главное меню"},
+
+  {"key":"lang_title","value":"Язык"},
+  {"key":"lang_en","value":"Английский"},
+  {"key":"lang_id","value":"Индонезийский"},
+  {"key":"lang_rus","value":"Русский"},
+  {"key":"lang_jp","value":"Японский"},
+  {"key":"lang_cn","value":"Китайский"},
+  {"key":"lang_main_menu","value":"Главное меню"},
+
+  {"key":"save_slot1","value":"Слот 1"},
+  {"key":"save_slot2","value":"Слот 2"},
+  {"key":"save_slot3","value":"Слот 3"},
+  {"key":"save_slot4","value":"Слот 4"},
+  {"key":"save_slot5","value":"Слот 5"},
+  {"key":"save_button","value":"Сохранить"},
+  {"key":"load_button","value":"Загрузить"},
+  {"key":"save_main_menu","value":"Главное меню"}
+ ]
+}
